@@ -25,7 +25,7 @@
   <!-- Your age -->
    <h5>7 years old</h5>
    <!-- Your favorite color or game -->
-    <h6>My favorite color is green because it is cool.</h6><br> and my favorite game is Hamster Jump
+    <h6>My favorite color is green because it is cool.</h6> and my favorite game is Hamster Jump
     <!-- What you love doing -->
      <p>I love and like gaming.</p>
      <!-- What you hope to learn in this Coding Class -->
