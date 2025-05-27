@@ -1,3 +1,4 @@
+<!-- HTML -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,10 +18,8 @@
    
     <p>You can also follow me on my GitHub Account here is the link . <a href="https://github.com/Iamasigma-123"> My Github Account</a></p>
 
-     <!-- Your name -->
+ <!-- Your name -->
   <h2>Emma Osagiede</h2>
-  
-
   <!-- Your title or role -->
    <h4>Coder</h4>
   <!-- Your age -->
